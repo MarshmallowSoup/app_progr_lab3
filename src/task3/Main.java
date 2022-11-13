@@ -82,13 +82,6 @@ public class Main {
         CheckList.print();
         CheckList.mode();
         CheckList.max(l_cust, 1);
-//
-////        System.out.println(bill.sum());
-////
-////        bill.group();
-////
-////        bill.mode();
-////
-////        bill.max();
+
     }
 }
