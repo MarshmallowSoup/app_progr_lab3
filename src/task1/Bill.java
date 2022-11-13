@@ -1,12 +1,12 @@
 package task1;
-
-import task2.CheckedException;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
+import task2.CheckedException;
+
+
 
 public class Bill {
     private String consumerName;

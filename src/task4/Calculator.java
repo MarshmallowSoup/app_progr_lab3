@@ -1,15 +1,14 @@
 package task4;
 
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-public class Calcukator {
+public class Calculator {
     private double first;
     private double second;
 
-    public Calcukator(double first, double second) {
+    public Calculator(double first, double second) {
         System.out.println("First = "+first);
         System.out.println("Second = "+second);
         this.first = first;
